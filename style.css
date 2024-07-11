@@ -1,0 +1,118 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Jost", sans-serif;
+  text-decoration: none;
+  
+}
+
+body {
+  box-sizing: border-box;
+}
+
+a {
+  color: white;
+}
+
+.header {
+  width: 100%;
+  background-color: #141024;
+}
+
+.container {
+max-width: 1720px;
+
+}
+
+
+.header__content {
+display: flex;
+align-items: center;
+justify-content: space-between;
+
+}
+
+.header__nav {
+  margin-top: 38px;
+  display: flex;
+  align-items: center;
+font-weight: 400;
+font-size: 20px;
+line-height: 32px;
+gap: 40px;
+}
+
+.img__header-content {
+margin-left: 100px;
+margin-top: 30px;
+}
+
+.header__number {
+color: white;
+margin-top: 30px;
+font-weight: 600;
+font-size: 30px;
+line-height: 48px;
+}
+
+.header__img-woomen {
+width: 763px;
+height: 917px;
+margin-top: 28px;
+margin-left: 28px;
+}
+
+.header__title-robo {
+font-weight: 600;
+font-size: 70px;
+line-height: 112px;
+color: white;
+}
+
+.header__robo-text {
+color: white;
+font-size: 20px;
+line-height: 32px;
+}
+
+.robo__courses {
+background-color: #D52027;
+width: 260px;
+height: 79px;
+border-radius: 5px;
+align-items: center;
+justify-content: center;
+display: flex;
+}
+
+.robo__link-courses {
+line-height: 29px;
+}
+
+.header__robo-shcool {
+display: flex;
+justify-content: center;
+}
+
+.header__robo-shcool-content {
+margin-top: 274px;
+margin-left: 230px;
+}
+
+.header__robo-text {
+margin-top: 20px;
+}
+
+.robo__courses {
+margin-top: 50px;
+}
+
+.Robo__shcool-text::before {
+  content: "Robo School - ";
+  font-weight: bold;
+}
+
+.Robo__shcool-text {
+font-size: 30px;
+line-height: 48px;
+}
