@@ -115,4 +115,33 @@ margin-top: 50px;
 .Robo__shcool-text {
 font-size: 30px;
 line-height: 48px;
+margin-top: 137px;
+}
+
+.umk__number {
+color: #D52027;
+font-weight: 600;
+font-size: 70px;
+line-height: 112px;
+}
+
+.umk__text {
+font-size: 18px;
+line-height: 29px;
+color: 
+#141024;
+}
+
+.robo__school-released {
+display: flex;
+margin-top: 60px;
+}
+
+.Robo__shcool-statistics-content {
+margin-left: 380px;
+}
+
+.next__achiment-curse {
+background-color: 
+#F9F9F9;
 }
