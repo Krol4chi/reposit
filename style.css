@@ -135,6 +135,7 @@ color:
 .robo__school-released {
 display: flex;
 margin-top: 60px;
+gap: 40px;
 }
 
 .Robo__shcool-statistics-content {
