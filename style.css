@@ -136,6 +136,7 @@ color:
 display: flex;
 margin-top: 60px;
 gap: 40px;
+margin-bottom: 120px;
 }
 
 .Robo__shcool-statistics-content {
@@ -146,3 +147,43 @@ margin-left: 380px;
 background-color: 
 #F9F9F9;
 }
+
+.choice {
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.next__achiment-curse-title {
+margin-left: 290px;
+padding-top: 100px;
+  font-weight: 600;
+  font-size: 50px;
+  line-height: 80px;
+}
+
+.name {
+font-size: 24px;
+font-weight: 600;
+line-height: 38px;
+}
+
+.Certificate {
+color: #141024;
+line-height: 28px;
+font-size: 18px;
+}
+
+.choice {
+margin-top: 60px;
+display: flex;
+gap: 64px;
+}
+
+.Certificate {
+margin-top: 20px;
+}
+
+
+
+
