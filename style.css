@@ -404,3 +404,67 @@ outline: none;
 .application__form-right::placeholder {
 padding-left: 20px;
 }
+
+.submit__application-content-left {
+color: white;
+}
+
+.application__subtitle {
+font-size: 36px;
+font-weight: 600;
+line-height: 47px;
+}
+
+.application__text {
+font-size: 20px;
+line-height: 26px;
+margin-top: 20px;
+}
+
+.footer__container {
+  max-width: 1720px;
+}
+
+.footer__title {
+  font-size: 30px;
+font-weight: 700;
+line-height: 48px;
+color: white;
+}
+
+.footer__robo-school {
+background-color: 
+#141024;
+}
+
+.footer__copy-right {
+font-size: 16px;
+line-height: 25px;
+color: white;
+margin-top: 5px;
+}
+
+.footer__content-left {
+  margin-left: 100px;
+
+
+}
+
+.footer__number {
+color: white;
+margin-left: 550px;
+font-size: 30px;
+font-weight: 600;
+line-height: 48px;
+}
+
+.footer__content-right {
+color: white;
+
+}
+
+.footer__content-all {
+  padding-top: 40px;
+  padding-bottom: 71px;
+  display: flex;
+}
