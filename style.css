@@ -468,3 +468,19 @@ color: white;
   padding-bottom: 71px;
   display: flex;
 }
+
+@media (max-width: 780px){
+ .choice {
+  display: flex;
+  flex-direction: column;
+ }
+ .next__achiment-curse-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-right: 900px;
+  display: flex;
+  width: 1200px;
+
+ }
+  }
